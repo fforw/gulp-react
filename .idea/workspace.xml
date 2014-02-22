@@ -93,10 +93,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/script/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="26" selection-start="166" selection-end="166" vertical-scroll-proportion="0.10250569">
+            <state line="6" column="26" selection-start="166" selection-end="166" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -129,10 +129,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="75" selection-start="563" selection-end="563" vertical-scroll-proportion="-18.75">
+            <state line="26" column="72" selection-start="470" selection-end="470" vertical-scroll-proportion="0.4566745">
               <folding />
             </state>
           </provider>
@@ -158,9 +158,9 @@
       <list>
         <option value="$PROJECT_DIR$/gulpfile.js" />
         <option value="$PROJECT_DIR$/package.json" />
-        <option value="$PROJECT_DIR$/src/index.html" />
         <option value="$PROJECT_DIR$/src/script/hello.js" />
         <option value="$PROJECT_DIR$/src/script/main.js" />
+        <option value="$PROJECT_DIR$/src/index.html" />
       </list>
     </option>
   </component>
@@ -527,13 +527,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="75" selection-start="563" selection-end="563" vertical-scroll-proportion="-18.75">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/script/hello.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="2" column="8" selection-start="31" selection-end="31" vertical-scroll-proportion="0.0">
@@ -543,7 +536,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/script/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="26" selection-start="166" selection-end="166" vertical-scroll-proportion="0.10250569">
+        <state line="6" column="26" selection-start="166" selection-end="166" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="72" selection-start="470" selection-end="470" vertical-scroll-proportion="0.4566745">
           <folding />
         </state>
       </provider>
