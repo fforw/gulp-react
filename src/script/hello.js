@@ -6,7 +6,7 @@ var Hello = React.createClass({
     render: function ()
     {
         return (
-            <div className="special"><img src="media/react.png"/> Hello from <b>React</b>!</div>
+            <div className="special"><img src="media/react.png"/> { this.props.children } </div>
         );
     }
 })

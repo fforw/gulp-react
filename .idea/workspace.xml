@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="df194d5e-cd14-44ad-8ba9-06eacfb7a927" name="Default" comment="" />
+    <list default="true" id="df194d5e-cd14-44ad-8ba9-06eacfb7a927" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gulp-react.iml" afterPath="$PROJECT_DIR$/gulp-react.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/script/hello.js" afterPath="$PROJECT_DIR$/src/script/hello.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/script/main.js" afterPath="$PROJECT_DIR$/src/script/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+    </list>
     <ignored path="gulp-react.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/gulpfile.js" changelist="df194d5e-cd14-44ad-8ba9-06eacfb7a927" time="1392999934389" ignored="false" />
@@ -77,19 +83,48 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="main.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/script/main.js">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
             <state line="5" column="23" selection-start="109" selection-end="109" vertical-scroll-proportion="0.0">
+=======
+            <state line="4" column="31" selection-start="87" selection-end="87" vertical-scroll-proportion="0.06833713">
+>>>>>>> Stashed changes
               <folding />
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< Updated upstream
       <file leaf-file-name="hello.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/script/hello.js">
           <provider selected="true" editor-type-id="text-editor">
             <state line="8" column="58" selection-start="191" selection-end="191" vertical-scroll-proportion="0.13667426">
+=======
+      <file leaf-file-name="package.json" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="26" selection-start="237" selection-end="237" vertical-scroll-proportion="-5.625">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gulp-react.iml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gulp-react.iml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="0" selection-start="78" selection-end="78" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="hello.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/script/hello.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="6" column="90" selection-start="192" selection-end="192" vertical-scroll-proportion="0.0">
+>>>>>>> Stashed changes
               <folding />
             </state>
           </provider>
@@ -98,7 +133,11 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/index.html">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
             <state line="18" column="9" selection-start="258" selection-end="258" vertical-scroll-proportion="-11.25">
+=======
+            <state line="29" column="70" selection-start="559" selection-end="559" vertical-scroll-proportion="-18.125">
+>>>>>>> Stashed changes
               <folding />
             </state>
           </provider>
@@ -116,8 +155,14 @@
       <list>
         <option value="$PROJECT_DIR$/gulpfile.js" />
         <option value="$PROJECT_DIR$/src/index.html" />
+<<<<<<< Updated upstream
         <option value="$PROJECT_DIR$/src/script/main.js" />
         <option value="$PROJECT_DIR$/src/script/hello.js" />
+=======
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/src/script/hello.js" />
+        <option value="$PROJECT_DIR$/src/script/main.js" />
+>>>>>>> Stashed changes
       </list>
     </option>
   </component>
@@ -336,8 +381,13 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+<<<<<<< Updated upstream
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.249694" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+=======
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.249694" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+>>>>>>> Stashed changes
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -422,21 +472,63 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/index.html">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
         <state line="18" column="9" selection-start="258" selection-end="258" vertical-scroll-proportion="-11.25">
+=======
+        <state line="17" column="0" selection-start="294" selection-end="294" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/script/main.js">
+    <entry file="file://$PROJECT_DIR$/gulp-react.iml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="23" selection-start="109" selection-end="109" vertical-scroll-proportion="0.0">
+        <state line="2" column="0" selection-start="78" selection-end="78" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="70" selection-start="559" selection-end="559" vertical-scroll-proportion="-18.125">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="28" selection-start="203" selection-end="203" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="26" selection-start="237" selection-end="237" vertical-scroll-proportion="-5.625">
+>>>>>>> Stashed changes
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/script/hello.js">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
+        <state line="5" column="23" selection-start="109" selection-end="109" vertical-scroll-proportion="0.0">
+=======
+        <state line="6" column="90" selection-start="192" selection-end="192" vertical-scroll-proportion="0.0">
+>>>>>>> Stashed changes
+          <folding />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< Updated upstream
+    <entry file="file://$PROJECT_DIR$/src/script/hello.js">
+      <provider selected="true" editor-type-id="text-editor">
         <state line="8" column="58" selection-start="191" selection-end="191" vertical-scroll-proportion="0.13667426">
+=======
+    <entry file="file://$PROJECT_DIR$/src/script/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="31" selection-start="87" selection-end="87" vertical-scroll-proportion="0.06833713">
+>>>>>>> Stashed changes
           <folding />
         </state>
       </provider>
