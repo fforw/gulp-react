@@ -14,7 +14,7 @@
     <file path="/gulpfile.js" changelist="df194d5e-cd14-44ad-8ba9-06eacfb7a927" time="1392999934389" ignored="false" />
     <file path="/main.js" changelist="df194d5e-cd14-44ad-8ba9-06eacfb7a927" time="1393071870907" ignored="false" />
     <file path="/hello.js" changelist="df194d5e-cd14-44ad-8ba9-06eacfb7a927" time="1393000481000" ignored="false" />
-    <file path="/index.html" changelist="df194d5e-cd14-44ad-8ba9-06eacfb7a927" time="1393071857503" ignored="false" />
+    <file path="/index.html" changelist="df194d5e-cd14-44ad-8ba9-06eacfb7a927" time="1393072695143" ignored="false" />
     <file path="$PROJECT_DIR$/../os-editor/src/main/webapp/script/component/autocomplete.js" changelist="df194d5e-cd14-44ad-8ba9-06eacfb7a927" time="1393002400044" ignored="false" />
     <file path="$PROJECT_DIR$/../os-editor/src/main/webapp/script/component/editor.js" changelist="df194d5e-cd14-44ad-8ba9-06eacfb7a927" time="1393002350113" ignored="false" />
     <file path="$PROJECT_DIR$/../os-editor/src/main/webapp/script/test/autocompl.js" changelist="df194d5e-cd14-44ad-8ba9-06eacfb7a927" time="1393002350113" ignored="false" />
@@ -132,7 +132,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="72" selection-start="470" selection-end="470" vertical-scroll-proportion="0.4566745">
+            <state line="26" column="43" selection-start="441" selection-end="441" vertical-scroll-proportion="0.4566745">
               <folding />
             </state>
           </provider>
@@ -543,7 +543,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="72" selection-start="470" selection-end="470" vertical-scroll-proportion="0.4566745">
+        <state line="26" column="43" selection-start="441" selection-end="441" vertical-scroll-proportion="0.4566745">
           <folding />
         </state>
       </provider>
