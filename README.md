@@ -13,3 +13,8 @@ Building
 --------
 
 use "gulp" to just build, and "gulp watch" to enable streaming build.
+
+More Modern Alternative
+-----------------------
+
+I recently also set up an updated version of this. https://github.com/fforw/b6-react-template
